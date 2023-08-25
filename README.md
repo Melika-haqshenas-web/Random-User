@@ -1,6 +1,6 @@
 # Random-User
 
-🪪**Personal Information Card with API, now you can easily find the person you want.😉**
+📇**Personal Information Card with API, now you can easily find the person you want.😉**
 
 ![1](https://github.com/Melika-haqshenas-web/Random-User/assets/126666369/f9fef25b-3f74-4d3f-bf9a-c9be68b48a2b)
 
